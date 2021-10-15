@@ -1,0 +1,26 @@
+img{
+    width: 460px;
+    height: 350px;
+    padding: 14px;
+    border: groove #ff9800;
+    margin-left: 118px;
+    margin-top: 45px;
+}
+div{
+    margin-left: 116px;
+    margin-right: 101px;
+    border: double rgba(235, 29, 29, 0.822);
+    border-width: 5px;
+    font-weight: bold;
+    font-size: x-large;
+    font-style: oblique;
+    border-color: firebrick;
+    padding: 10px;
+}
+h1{
+    border: dotted;
+    border-color: dimgrey;
+    margin-left: 298px;
+    margin-right: 328px;
+    color: rgb(97, 150, 230);
+}

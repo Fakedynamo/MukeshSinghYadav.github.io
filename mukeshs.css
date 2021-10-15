@@ -1,0 +1,51 @@
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/03/55/60/70/360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin: auto;
+  }
+img{
+    border-style: double;
+    border-width: 15px;
+    border-color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+    border-style: solid;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: grey;
+}
+ol{
+    font-style: italic;
+    border-style: groove;
+    border-collapse: collapse;
+    font-size: large;
+    margin-right: 80%;
+    border-width: 5px;
+    background-color: cornsilk;
+}
+table, th, td{
+    border-style: solid;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: large;
+}
+li a:hover{
+    background-color: rgb(250, 193, 124);
+    color: rgb(0, 0, 0);
+    border: solid rgb(0, 0, 0);
+}
+div{
+    position: absolute;
+    right: 0px;
+    width: 350px;
+    padding: 0px;
+}
